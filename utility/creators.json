@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "James",
+    "earn": "10.1",
+    "verified": true,
+    "profileImg": "/creators/james.png"
+  },
+  {
+    "id": 2,
+    "name": "Mantra",
+    "earn": "8.83",
+    "verified": true,
+    "profileImg": "/creators/mantra.png"
+  },
+  {
+    "id": 3,
+    "name": "Dancell",
+    "earn": "8.23",
+    "verified": true,
+    "profileImg": "/creators/dancell.png"
+  },
+  {
+    "id": 4,
+    "name": "FlameGirl",
+    "earn": "7.43",
+    "verified": true,
+    "profileImg": "/creators/flamegirl.png"
+  },
+  {
+    "id": 5,
+    "name": "YoungGuns",
+    "earn": "7.14",
+    "verified": true,
+    "profileImg": "/creators/youngguns.png"
+  },
+  {
+    "id": 6,
+    "name": "JJrellows",
+    "earn": "6.98",
+    "verified": true,
+    "profileImg": "/creators/jjrellows.png"
+  },
+  {
+    "id": 7,
+    "name": "Akuji78",
+    "earn": "5.82",
+    "verified": true,
+    "profileImg": "/creators/akuji78.png"
+  },
+  {
+    "id": 8,
+    "name": "Lancerss",
+    "earn": "5.4",
+    "verified": true,
+    "profileImg": "/creators/lancerss.png"
+  }
+]

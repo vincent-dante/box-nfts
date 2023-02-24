@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pink: #ae4ea5;
+  --dark: #1d1c27;
+  --casal: #296861;
+  --chinook: #a9e7b7;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  background-color: var(--dark);
+  font-weight: bold;
+}
+
+.background-header {
+  background-image: url('/background-header.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center bottom;
+}
+
+.button-gradient-pink {
+  box-shadow: 0px 20px 60px rgb(174, 78, 165);
+}
+
+.button-gradient-pink:hover {
+  box-shadow: 0px 20px 60px rgb(231, 38, 211);
+}
+
+.creators-item:nth-child(-n + 7) {
+  border-bottom: 2px solid theme('colors.gunmetal.400');
+}
+
+@media (min-width: 640px) {
+  .creators-item:nth-child(n) {
+    border-bottom: none;
+  }
+  .creators-item:nth-child(-n + 6) {
+    border-bottom: 2px solid theme('colors.gunmetal.400');
+  }
+}
+
+@media (min-width: 1024px) {
+  .creators-item:nth-child(n) {
+    border-bottom: none;
+  }
+  .creators-item:nth-child(-n + 4) {
+    border-bottom: 2px solid theme('colors.gunmetal.400');
+  }
+}

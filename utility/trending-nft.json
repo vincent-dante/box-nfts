@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "TKP BAD BUNNY 038",
+    "price": "0.180",
+    "verified": true,
+    "image": "/nft-trending/tkpbadbunny038.png"
+  },
+  {
+    "id": 2,
+    "name": "Bored Ape 3D Club #1705",
+    "price": "0.25",
+    "verified": true,
+    "image": "/nft-trending/boredape3dclub1705.png"
+  },
+  {
+    "id": 3,
+    "name": "UNİCORN",
+    "price": "0.11",
+    "verified": false,
+    "image": "/nft-trending/unicorn.png"
+  },
+  {
+    "id": 4,
+    "name": "LUPPY Bc#3619",
+    "price": "0.71",
+    "verified": true,
+    "image": "/nft-trending/luppybc3619.png"
+  },
+  {
+    "id": 5,
+    "name": "Lil Ghost#2135",
+    "price": "0.51",
+    "verified": true,
+    "image": "/nft-trending/lilghost2135.png"
+  }
+]
