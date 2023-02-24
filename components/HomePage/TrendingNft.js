@@ -47,7 +47,6 @@ export default function TrendingNft() {
         breakpoints={{
           320: {
             watchSlidesProgress: true,
-            shortSwipes: false,
             allowTouchMove: true,
           },
           769: {

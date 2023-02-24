@@ -4,6 +4,8 @@ Hi there 👋 this is my personal project name Box nfts.
 
 ## Live preview
 
+https://box-nfts.vercel.app/
+
 ## Tech Stacks
 
 - NextJS
@@ -11,12 +13,12 @@ Hi there 👋 this is my personal project name Box nfts.
 
 ## Features
 
-- Home page ui for Home page ui for Nft marketplace.
+- Home page ui for Nft marketplace.
 
 ## Build Setup
 
 To Run this project locally.
 
 1. clone this project.
-2. npm install
-3. npm run dev
+2. yarn install
+3. yarn run dev
