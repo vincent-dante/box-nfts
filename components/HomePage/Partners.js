@@ -21,8 +21,8 @@ export default function Partners() {
       </div>
       <div className="w-1/2 md:w-auto p-2">
         <Image
-          src="/partners/cardano.png"
-          alt="Cardano"
+          src="/partners/gemini.png"
+          alt="Gemini"
           width={200}
           height={50}
         />

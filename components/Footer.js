@@ -14,6 +14,8 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 export default function Footer() {
+  const year = new Date().getFullYear();
+
   return (
     <div className="bg-[#17161F]">
       <div className="pt-20 pb-10 container mx-auto px-4 lg:px-10 xl:px-32">
@@ -76,7 +78,7 @@ export default function Footer() {
         </div>
         <hr className="border-[#2C2B3A] mt-10 mb-5" />
         <div className="flex justify-between text-ashgrey-400 text-sm">
-          <p>© 2023 Box nfts</p>
+          <p>© {year} Box nfts</p>
           <div className="flex gap-10">
             <a href="" className="hover:underline">
               Privacy Policy
